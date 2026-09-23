@@ -198,7 +198,7 @@ if(contactForm){
     const product = document.getElementById("contactProduct").value;
     const message = document.getElementById("contactMessage").value.trim() || "No extra details";
 
-    const text = `Hello Dream World! I would like to enquire about a custom order.
+    const text = `Hello dreem World! I would like to enquire about a custom order.
 
 Name: ${name}
 Phone: ${phone}
@@ -218,8 +218,8 @@ document.querySelectorAll(".product-order-btn").forEach(btn=>{
   btn.addEventListener("click", e=>{
     e.preventDefault();
 
-    const product = btn.dataset.product || "Dream World Product";
-    const message = `Hello Dream World! I want to order this product:
+    const product = btn.dataset.product || "dreem World Product";
+    const message = `Hello dreem World! I want to order this product:
 
 Product: ${product}
 
