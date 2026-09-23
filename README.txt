@@ -1,4 +1,4 @@
-DREAM WORLD — IMAGE ALIGNMENT + HD ONLINE SLIDER FIX
+dreem WORLD — IMAGE ALIGNMENT + HD ONLINE SLIDER FIX
 ====================================================
 
 Changes:
